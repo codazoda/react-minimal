@@ -1,0 +1,9 @@
+{
+  "name": "react-minimal",
+  "version": "1.0.0",
+  "description": "A minimal react app base setup.",
+  "main": "index.js",
+  "repository": "git@github.com:codazoda/react-minimal.git",
+  "author": "Joel Dare <joel@joeldare.com>",
+  "license": "MIT"
+}
