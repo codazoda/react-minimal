@@ -7,11 +7,11 @@
   "author": "Joel Dare <joel@joeldare.com>",
   "license": "MIT",
   "dependencies": {
+    "babel-core": "^6.24.1",
     "babel-loader": "^7.0.0",
     "webpack": "^2.5.1"
   },
   "scripts": {
     "compile": "webpack"
   }
-
 }
